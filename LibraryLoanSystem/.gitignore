@@ -1,0 +1,24 @@
+# Compiled output
+out/
+*.class
+
+# Derby database files (auto-created at runtime)
+librarydb/
+derby.log
+
+# Performance output
+output/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# Temp files
+sources.txt
